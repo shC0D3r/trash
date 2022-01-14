@@ -1,0 +1,12 @@
+springTest\BaseController.class
+Kafaka\Listners.class
+springTest\HeroResponse.class
+models\Hero.class
+springTest\MySQLController.class
+utils\HeroSerializator.class
+Kafaka\MsgController.class
+dao\NewHeroDAO.class
+utils\db.class
+springTest\Application.class
+models\NewHero.class
+utils\HibSessionsFactory.class
